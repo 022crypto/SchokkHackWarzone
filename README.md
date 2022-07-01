@@ -30,4 +30,4 @@ Esp Distance (Distance To The Enemy)
 Esp Skeleton (Drawing The Enemy's Skeleton)
 
 
-Works only in full-Screen mode (without borders)
+Works only in full-Screen mode (without borders).
